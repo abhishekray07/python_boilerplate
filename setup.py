@@ -24,7 +24,7 @@ history = open('HISTORY.rst').read().replace('.. :changelog:', '')
 setup(
     name='python_boilerplate',
     version='1.0.0',
-    description='Deploy static HTML sites to S3 with the simple 'alotofeffort' command.',
+    description='Deploy static HTML sites to S3 with the simple.',
     long_description=readme + '\n\n' + doclink + '\n\n' + history,
     author='Abhishek Ray',
     author_email='abhishekray07@gmail.com',
