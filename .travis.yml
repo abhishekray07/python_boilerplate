@@ -15,6 +15,7 @@
 # # command to run tests, e.g. python setup.py test
 # script:
 #   - py.test
+dist: xenial
 sudo: false
 language: python
 python:
