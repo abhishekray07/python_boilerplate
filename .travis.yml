@@ -24,4 +24,4 @@ python:
 install: pip install flake8
 script:
   - flake8
-  - runtests
+  - ./runtests
